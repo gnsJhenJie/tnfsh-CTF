@@ -1,2 +1,0 @@
-# tnfsh-CTF
-TNFSH-CTF
