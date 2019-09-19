@@ -12,7 +12,7 @@ Scytale Cipher 密碼棒: https://www.dcode.fr/scytale-cipher
 ## Linux
 找執行檔裡面的string: `strings reverse` (reverse為檔名)  
 
-用名稱找檔案: `find . -name gtwang.txt`   
+用名稱找檔案: `find . -name hello.txt`   
 
 看程式占用的port: `ps -l`  
 
@@ -35,3 +35,4 @@ Scytale Cipher 密碼棒: https://www.dcode.fr/scytale-cipher
 執行檔加權限: `chmod +x FILENAME`
 ## 一些Python
 https://repl.it/@gnsJhenJie0618/CTF  
+Python 2D-list: https://stackoverflow.com/questions/2739552/2d-list-has-weird-behavor-when-trying-to-modify-a-single-value  
